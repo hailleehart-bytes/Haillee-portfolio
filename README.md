@@ -65,7 +65,7 @@ https://hailleehart-bytes.github.io/your-repo-name/
 ---
 
 ## External Code References
-Some HTML code was written by me as the main format was developed from tutorial content howver the CSS code was mainly written by me as I personalized my website to transition in certain ways with certain colors:
+Some HTML code was written by me as the main format was developed from tutorial content howver the CSS code was mainly written by me as I personalized my website to transition in certain ways with certain colors, some elements, like underlining, and text enlarging was found through VSCODE's auto-fill, ALL CODE WAS USED AND INSPIRED BY TURTORIAL AND LECTURE CODE EXAMPLES NO CODE WAS USED FROM THE INTERNET OR EXTERNAL SOURCES:
 - CSS Gradient Syntax — [MDN Web Docs](https://developer.mozilla.org/)  
 - Media Query Example — [W3Schools](https://www.w3schools.com/)
 
@@ -74,6 +74,7 @@ Some HTML code was written by me as the main format was developed from tutorial 
 ## Contact
 Haillee.Gaineshart@ontariotechu.net  
 © 2025 Haillee Gaineshart. All rights reserved.
+
 
 
 Chatgpt(unpaid version) was used to help formulate my README and help fix erros when my code wasn't working. No code was copied from Chatgpt, it was only used to understand why some lines were not working.

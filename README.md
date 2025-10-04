@@ -61,7 +61,7 @@ All validation tools were used before submission:
 - Project managed using **Git** and **GitHub**.  
 - Multiple commits show progress at different stages of development.  
 - The site is deployed live using **GitHub Pages**:  
-https://hailleehart-bytes.github.io/your-repo-name/
+https://hailleehart-bytes.github.io/Haillee-portfolio/
 ---
 
 ## External Code References
@@ -78,3 +78,4 @@ Haillee.Gaineshart@ontariotechu.net
 
 
 Chatgpt(unpaid version) was used to help formulate my README and help fix erros when my code wasn't working. No code was copied from Chatgpt, it was only used to understand why some lines were not working.
+
